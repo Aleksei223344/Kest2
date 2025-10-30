@@ -1,0 +1,24 @@
+What key do i use to run setup on my laptop?
+I use F2
+
+Who is the manufacturer of the BIOS?
+innotek GmbH 
+
+Which BIOS version is installed?
+VirtualBox, 12/1/2006
+
+What features, if any, have been added to the new BIOS version?
+No new BIOS features are released separately
+
+What changes, if any, have been made to the new BIOS version to fix problems?
+There are no BIOS-specific fixes
+
+What are the instructions to update the new BIOS version?
+To update the BIOS, you must update VirtualBox:
+
+1) Go to https://www.virtualbox.org
+
+2) Download and install the latest version of VirtualBox for your system
+
+3) Restart your virtual machine — the BIOS/UEFI will automatically update with the new VirtualBox version
+
