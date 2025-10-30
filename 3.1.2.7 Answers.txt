@@ -1,0 +1,4 @@
+1)Removes all related files and settings – ensures the program’s files, registry entries, and shortcuts are deleted properly
+2) Prevents system errors, manually deleting files can leave leftover data that may cause crashes or conflicts
+3) Frees up disk space safely, the uninstaller knows which files belong to the program
+4) Keeps Windows stable, it maintains a clean and organized system
