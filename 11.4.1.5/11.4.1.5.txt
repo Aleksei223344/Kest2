@@ -1,0 +1,29 @@
+To see the next page, press the spacebar. What happens when you press enter?
+:Slides the page down by 1
+
+CD	Change the current directory
+CHKDSK	Check the file system and disk for errors
+COPY	Copy files from one location to another
+DEL	Delete one or more files
+DIR	Display a list of files and folders in the current directory
+DISKPART	Manage disks, partitions, and volumes
+EXIT	Close the command prompt or exit a script
+FORMAT	Format a disk or drive
+GPRESULT	Display Group Policy settings applied to a user or computer
+MD	Create a new directory (same as MKDIR)
+TASKLIST	Display a list of currently running processes
+RD	Remove a directory (same as RMDIR)
+ROBOCOPY	Robust file copy tool for copying files and directories
+SHUTDOWN	Shut down, restart, or log off a computer
+XCOPY	Copy files and directories, including subdirectories
+
+Clear the screen using the command line. What command did you use?
+:CLS
+
+Press F7 on the keyboard for the command history. What is the last command that you have used?
+:CLS
+
+Press up arrow to display the last command used. Question: What is the last command?
+:CLS
+
+
